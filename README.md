@@ -52,7 +52,7 @@ test.example.com
 Jalankan skrip dengan perintah berikut:  
 
 ```sh
-python script.py -i subdomains.txt -o results.csv
+python3 sub.py -i subdomains.txt -o results.csv
 ```
 
 ## 📊 Output  
@@ -68,10 +68,7 @@ Hasil analisis akan tersimpan dalam `results.csv`, berisi:
 ## 👨‍💻 Kontribusi  
 
 Ingin berkontribusi? Fork repository ini dan buat Pull Request! 🚀  
-
-## 📜 Lisensi  
-
-Proyek ini menggunakan lisensi **MIT License**.  
+ 
 
 ---
 
